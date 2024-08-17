@@ -1,5 +1,5 @@
-// 0.5.1-c8a2
 // Enable optimization
+// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
 import "./TRC20.sol";
